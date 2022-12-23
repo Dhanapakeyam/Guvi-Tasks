@@ -1,5 +1,5 @@
 //PRODUCT DATABASE
-//Creating Database
+//Creating Database --> Productdb
 use productdb
 
 //Collection name --> products
